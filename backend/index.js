@@ -1,4 +1,4 @@
-const transactionService = require('./TransactionService');
+const transactionService = require('./schema/TransactionService');
 const express = require('express');
 const bodyParser = require('body-parser');
 const cors = require('cors');
